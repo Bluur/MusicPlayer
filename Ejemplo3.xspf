@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<playlist xmlns="http://xspf.org/ns/0/" Version="1">
+    <trackList>
+        <location>File:///C:\Users\Migue\Desktop\DAW\Programación\Tercer Trimestre\Proyectos\appListaReproduccion</location>
+        <track>
+            <title>The Beatles - Help!.wav</title>
+            <location>File:///C:\Users\Migue\Desktop\DAW\Programación\Tercer Trimestre\Proyectos\appListaReproduccion\The Beatles - Help!.wav</location>
+        </track>
+        <track>
+            <title>The Beatles - Yellow Submarine.wav</title>
+            <location>File:///C:\Users\Migue\Desktop\DAW\Programación\Tercer Trimestre\Proyectos\appListaReproduccion\The Beatles - Yellow Submarine.wav</location>
+        </track>
+    </trackList>
+</playlist>
